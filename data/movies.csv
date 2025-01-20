@@ -1,0 +1,101 @@
+movie_id,movie_title,genre
+1,The Shawshank Redemption,Drama
+2,The Godfather,Action
+3,The Dark Knight,Adventure
+4,Pulp Fiction,Sci-Fi
+5,The Lord of the Rings,Sci-Fi
+6,Forrest Gump,Comedy
+7,Inception,Drama
+8,Fight Club,Crime
+9,The Matrix,Drama
+10,The Empire Strikes Back,Animation
+11,Interstellar,Thriller
+12,The Lion King,Action
+13,The Prestige,Action
+14,The Departed,Drama
+15,Gladiator,Sci-Fi
+16,The Godfather Part II,Sci-Fi
+17,The Green Mile,Crime
+18,The Dark Knight Rises,Animation
+19,Star Wars: A New Hope,Action
+20,Back to the Future,Crime
+21,The Avengers,Sci-Fi
+22,The Silence of the Lambs,Crime
+23,Parasite,Thriller
+24,Schindler's List,Sci-Fi
+25,The Shining,Horror
+26,The Usual Suspects,Animation
+27,The Social Network,Adventure
+28,Toy Story,Action
+29,The Incredibles,Comedy
+30,Jurassic Park,Thriller
+31,The Big Lebowski,Romance
+32,The Revenant,Adventure
+33,A Beautiful Mind,Comedy
+34,The Truman Show,Sci-Fi
+35,The Terminator,Romance
+36,Goodfellas,Drama
+37,Matrix Reloaded,Drama
+38,Star Wars: Return of the Jedi,Thriller
+39,Casablanca,Drama
+40,The Great Escape,Romance
+41,The Princess Bride,Romance
+42,Citizen Kane,Animation
+43,The Bridge on the River Kwai,Adventure
+44,One Flew Over the Cuckoo's Nest,Action
+45,Dr. Strangelove,Horror
+46,Sunset Boulevard,Crime
+47,The Wizard of Oz,Drama
+48,Gone with the Wind,Thriller
+49,The Godfather Part III,Drama
+50,The Grand Budapest Hotel,Crime
+51,The Departed,Adventure
+52,Whiplash,Animation
+53,La La Land,Romance
+54,The Revenant,Animation
+55,Avatar,Sci-Fi
+56,Deadpool,Drama
+57,The Hangover,Action
+58,WALL-E,Sci-Fi
+59,Her,Adventure
+60,12 Angry Men,Drama
+61,The Lion King,Sci-Fi
+62,The Big Short,Drama
+63,A Clockwork Orange,Thriller
+64,The Matrix Revolutions,Adventure
+65,Django Unchained,Horror
+66,Goodfellas,Romance
+67,The Silence of the Lambs,Comedy
+68,Fight Club,Romance
+69,Catch Me If You Can,Romance
+70,The Prestige,Sci-Fi
+71,The Dark Knight,Adventure
+72,Moonlight,Drama
+73,The Irishman,Animation
+74,A Beautiful Mind,Comedy
+75,The Pianist,Crime
+76,The Last Samurai,Sci-Fi
+77,"The Good, the Bad and the Ugly",Comedy
+78,The Exorcist,Horror
+79,Star Wars: Episode III,Thriller
+80,Interstellar,Adventure
+81,The Lord of the Rings: The Two Towers,Crime
+82,Avengers: Endgame,Sci-Fi
+83,The Shawshank Redemption,Romance
+84,Inception,Action
+85,The Matrix Reloaded,Sci-Fi
+86,Shutter Island,Action
+87,Skyfall,Romance
+88,Mission: Impossible - Fallout,Thriller
+89,Star Wars: Episode VI - Return of the Jedi,Adventure
+90,Guardians of the Galaxy,Drama
+91,The Social Network,Sci-Fi
+92,Mad Max: Fury Road,Animation
+93,Inglourious Basterds,Romance
+94,The Wolf of Wall Street,Sci-Fi
+95,The Revenant,Horror
+96,The Incredibles 2,Thriller
+97,The Hunger Games,Horror
+98,Blade Runner 2049,Comedy
+99,The Pursuit of Happyness,Adventure
+100,Dunkirk,Comedy
